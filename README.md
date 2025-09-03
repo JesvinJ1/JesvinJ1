@@ -8,13 +8,13 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a motivated Computer Science student passionate about **software development, data systems, and building real-world applications**. Some projects are complete, some are in progress, and some are experiments, but all showcase my growth as a developer.
 
-* 🚗 Currently building **[DriveMind](https://apps.apple.com/us/app/drivemind/id6743726786)** – an autonomous iOS app for intelligent trip logging and driving insights (code available upon request).
-* 🎓 Exploring advanced programming concepts through courses like **Data Structures, Algorithms, Software Development, and Systems**.
-* 📊 Interested in **data-driven applications**, **machine learning integration**, and **scalable software design**.
+* Currently building **[DriveMind](https://apps.apple.com/us/app/drivemind/id6743726786)** – an autonomous iOS app for intelligent trip logging and driving insights (code available upon request).
+* Exploring advanced programming concepts through courses like **Data Structures, Algorithms, Software Development, and Systems**.
+* Interested in **data-driven applications**, **machine learning integration**, and **scalable software design**.
 
 ---
 
