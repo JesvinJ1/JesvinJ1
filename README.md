@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I’m Jesvin Jerry
 
-<!--
-**JesvinJ1/JesvinJ1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computer Science Student (Sophomore) @ Northeastern University**
 
-Here are some ideas to get you started:
+📍 Boston, MA & Philadelphia, PA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 [LinkedIn](https://www.linkedin.com/in/jesvin-jerry/)
+
+---
+
+## 🚀 About Me
+
+I’m a motivated Computer Science student passionate about **software development, data systems, and building real-world applications**. Some projects are complete, some are in progress, and some are experiments, but all showcase my growth as a developer.
+
+* 🚗 Currently building **[DriveMind](#)** – an autonomous iOS app for intelligent trip logging and driving insights (code available upon request).
+* 🎓 Exploring advanced programming concepts through courses like **Data Structures, Algorithms, Software Development, and Systems**.
+* 📊 Interested in **data-driven applications**, **machine learning integration**, and **scalable software design**.
+
+---
+
+## 📚 Coursework Highlights
+
+* **CS 3500**: Object-Oriented Design
+* **CY 2550**: Foundations of Cybersecurity
+* **CS 2510**: Fundamentals of Computer Science II
+* **CS 2500**: Fundamentals of Computer Science I
+* **CS 1800**: Discrete Structures
+
+---
+
+## 🛠️ Technologies & Tools
+
+* **Languages**: Java, Swift, Racket, Python, SQL, HTML, CSS, TypeScript
+* **Frameworks**: SwiftUI, CoreML, React, Node.js
+* **Tools**: Git/GitHub, Xcode, Visual Studio Code, Docker, WordPress, Firebase, Mixpanel, Salesforce CRM
+* **Skills**: Data Analytics, Software Architecture, Agile Development, Data Management
+
+---
+
+## 🌟 Featured Project
+
+### 🚗 DriveMind
+
+A smart driving companion app that:
+
+* Logs and analyzes trips automatically
+* Uses **machine learning** for driving behavior insights (DriveScore)
+* Tracks **fuel & charging analytics** with cost comparisons
+* Includes a premium subscription model and real-time data visualizations
+
+***This is a private repo (full scale application, over 2000+ users) – code available upon request.***
+
+---
+
+## 📬 Let’s Connect
+
+I’m always open to collaboration, internships, and project opportunities.
+
+* 📧 Email: jerry.j@northeastern.edu
+
+---
